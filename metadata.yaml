@@ -1,0 +1,35 @@
+_repo: La-mort-de-C-sar---13-trag-die-en-trois-actes-de-Voltaire-avec-les-changemens-fait-par-le-cit__15805
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Voltaire
+    - http://fr.wikipedia.org/wiki/Voltaire
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2005-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15805'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Tragedies'
+- !lcsh 'Caesar, Julius -- Drama'
+title: "La mort de César,\r\ntragédie en trois actes de Voltaire, avec les changemens\
+  \ fait par le citoyen Gohier, ministre de la Justice"
+url: http://www.gutenberg.org/ebooks/15805
